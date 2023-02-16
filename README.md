@@ -1,5 +1,5 @@
 ### Archcraft - Visual Studio Code
-Script to install & update Visual Studio Code on Archcraft OS
+Script to install & update Visual Studio Code
 
 ### Usage
 - Clone repository
